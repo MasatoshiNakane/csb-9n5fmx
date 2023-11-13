@@ -1,0 +1,27 @@
+[
+  {
+    "name": "大剣",
+    "price": "48000",
+    "description": "一撃大ダメージ"
+  },
+  {
+    "name": "弓",
+    "price": "37000",
+    "description": "手数で相手を翻弄"
+  },
+  {
+    "name": "ガンランス",
+    "price": "86000",
+    "description": "圧倒的防御力で隙を付け"
+  },
+  {
+    "name": "ハンマー",
+    "price": "51000",
+    "description": "頭を狙って大混乱"
+  },
+  {
+    "name": "太刀",
+    "price": "26000",
+    "description": "納刀して見切って大団円"
+  }
+]
